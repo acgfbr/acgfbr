@@ -6,7 +6,7 @@ Algumas coisas sobre a minha pessoa:
 - 📫  Você consegue me encontrar no linkedin: https://www.linkedin.com/in/acgfbr/
 <hr>
 
-### Expectativa 2021/21
+### Expectativa 2020/21
 -   [ ] aprender vuejs
 -   [ ] aprender .net core
 -   [ ] aprender react native e publicar 10 apps na playstore/appstore
