@@ -10,5 +10,5 @@ Algumas coisas sobre a minha pessoa:
 
 ### Expectativa 2020/21
 -   [ ] aprender vuejs
--   [ ] aprender .net core
+-   [ ] aprender react
 -   [ ] aprender react native e publicar 10 apps na playstore/appstore
