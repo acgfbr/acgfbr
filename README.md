@@ -9,6 +9,6 @@ Algumas coisas sobre a minha pessoa:
 <hr>
 
 ### Expectativa 2020/21
--   [ ] aprender vuejs
--   [ ] aprender react
--   [ ] aprender react native e publicar 10 apps na playstore/appstore
+-   [ ] aprender k8s
+-   [ ] aprender react + gatsby
+-   [ ] aprender e usar vue profissionalmente
