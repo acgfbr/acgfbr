@@ -5,7 +5,9 @@ Algumas coisas sobre a minha pessoa:
 - 💬  Vamos conversar sobre proxys, crawlers, php, nodejs, aws
 - 📫  Você consegue me encontrar no linkedin: https://www.linkedin.com/in/acgfbr/
 
-- [![LogManager Badge](https://spybot.com.br/assets/img/favicon.png=25x25)](https://logmanager.com.br) Conheça minha ferramenta de crawlers: https://spybot.com.br/
+
+
+- [![Spybot Badge](<img src="https://spybot.com.br/assets/img/favicon.png." data-canonical-src="https://spybot.com.br/assets/img/favicon.png" width="25" height="25" />](https://logmanager.com.br) Conheça minha ferramenta de crawlers: https://spybot.com.br/
 - [![LogManager Badge](https://app.logmanager.com.br/dist/images/resized.png)](https://logmanager.com.br) Quer facilitar sua logística? https://logmanager.com.br/
 
 <hr>
