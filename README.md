@@ -11,8 +11,3 @@ Algumas coisas sobre a minha pessoa:
 - <a href="https://logmanager.com.br/"><img src="https://app.logmanager.com.br/dist/images/fav.png" width="25"></a> Quer facilitar sua logística? https://logmanager.com.br/
 
 <hr>
-
-
-<a href="https://spybot.com.br/"><img src="https://spybot.com.br/assets/img/favicon.png" width="25"></a> SpyBot - O primeiro Crawler Friendly
-
-<a href="https://logmanager.com.br/"><img src="https://app.logmanager.com.br/dist/images/fav.png" width="25"></a> LogManager - Pedidos Flex em tempo real
