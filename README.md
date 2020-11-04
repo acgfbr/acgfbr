@@ -1,5 +1,4 @@
 ### Olá 👋
-<img src="https://github-readme-stats.vercel.app/api?username=acgfbr&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true&theme=radical" />
 
 
 Algumas coisas sobre a minha pessoa:
