@@ -10,9 +10,6 @@ Algumas coisas sobre a minha pessoa:
 - 📫  Você consegue me encontrar no linkedin: https://www.linkedin.com/in/acgfbr/
 - 🌱 Aprendendo React - Next.js - k8s - e um montão de coisas novas :D
 
-
-
-- <a href="https://spybot.com.br/"><img src="https://spybot.com.br/assets/img/favicon.png" width="25"></a> Conheça minha ferramenta de crawlers: https://spybot.com.br/
 - <a href="https://logmanager.com.br/"><img src="https://app.logmanager.com.br/dist/images/fav.png" width="25"></a> Quer facilitar sua logística? https://logmanager.com.br/
 
 <hr>
