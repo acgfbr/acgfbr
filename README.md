@@ -1,4 +1,4 @@
-Hello, i am antônio, trying to search job ASAP as possible
+Hello, i am antônio, trying to get a new job ASAP as possible
 
 
 ![asap as possible](asap_as_possible.png)
